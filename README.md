@@ -1,6 +1,6 @@
 # STM32F4xx_Project_Templates
 
-STM32F4项目模板，适用于STM32F4的所以芯片。
+STM32F4项目模板，适用于STM32F4全部芯片。
 
 ## 开发环境
 
